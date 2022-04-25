@@ -1,0 +1,33 @@
+body{
+    font-family: 'Space Mono', monospace; ;
+    background-color: #fff;
+    color:  #333333;
+}
+.crowimage{
+    margin-left: 30px;
+}
+.content{
+    margin-left: 50%;
+    font-size:20px ;
+    margin-top: -30%;
+    font-family: 'Space Mono', monospace;;
+    color: #000;
+}
+.content p{
+    font-size: 20px;
+    color: #4f4f4f ;
+}
+
+button{
+    color: white;
+    border-radius: 6%;
+    background-color: #4f4f4f;
+    padding: 3%;
+    margin-top: 4%;
+}
+
+/* font-family: 'Space Mono', monospace;
+primary-color: #333333;
+color-black: #000;
+color-paragraph: #4f4f4f;
+secondary-color: #fff; */
